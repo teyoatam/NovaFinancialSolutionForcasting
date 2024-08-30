@@ -1,0 +1,15 @@
+ pandas
+numpy
+ matplotlib
+ pyplot
+datetime
+nltk
+CountVectorizer
+counter
+collection
+nltk.sentiment 
+ SentimentIntensityAnalyzer
+ sklearn.feature_extraction.text 
+ CountVectorizer
+ yfinance
+ Textblob
