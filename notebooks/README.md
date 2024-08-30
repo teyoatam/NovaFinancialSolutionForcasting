@@ -13,8 +13,3 @@ Analysis of publishing times might reveal if there’s a specific time when most
 Publisher Analysis:
 Which publishers contribute most to the news feed? Is there a difference in the type of news they report?
 If email addresses are used as publisher names, identify unique domains to see if certain organizations contribute more frequently.
-
-Task 2:
-Load and prepare the data from yfinancedata(AAPL).
-Load your stock price data into a pandas DataFrame.
-Ensure your data includes columns like Open, High, Low, Close, and Volume.
