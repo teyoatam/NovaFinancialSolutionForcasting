@@ -7,3 +7,17 @@ Tasks:
 Use additional finance data
 Load and prepare the data.
 Load your stock price data into a pandas DataFrame. Ensure your data includes columns like Open, High, Low, Close, and Volume
+This project analyzes the relationship between news sentiment and stock prices by quantifying sentiment from news headlines and examining its correlation with daily stock returns. Using Python and various libraries, the analysis provides insights into how sentiment influences financial markets.
+It also analyzes the impact of news sentiment on stock prices by quantifying sentiment from news headlines and examining its correlation with daily stock returns. Using Python and various libraries, this analysis provides insights into how news sentiment influences financial markets.
+Features
+Sentiment analysis of news headlines using TextBlob.
+Calculation of daily stock returns based on closing prices.
+Correlation analysis between average daily sentiment scores and stock returns.
+Visualization of results for better understanding.
+Sentiment Analysis: Analyze news headlines using TextBlob to quantify sentiment.
+Daily Stock Returns Calculation: Compute daily percentage changes in stock closing prices.
+Correlation Analysis: Determine the Pearson correlation coefficient between average daily sentiment scores and stock returns.
+Data Visualization: Optionally visualize stock prices, sentiment scores, and correlation results.
+Data Sources
+Stock Price Data: Historical stock prices can be sourced from financial data providers like Yahoo Finance or Alpha Vantage.
+News Headlines: Collect news articles from finance news websites or APIs that provide headlines related to the stock.

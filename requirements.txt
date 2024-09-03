@@ -13,3 +13,7 @@ nltk.sentiment
  CountVectorizer
  yfinance
  Textblob
+ TALib
+ pynance
+ yahooquery
+ ticker
